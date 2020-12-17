@@ -1,6 +1,6 @@
 # Awesome Devmy 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![CC BY 4.0][cc-by-shield]][cc-by]
-> A curated list of awesome resource selected by Devmy team!  
+> A curated list of awesome resources selected by Devmy team!  
 [View as github page](https://acadevmy.github.io/awesome-devmy/)
 
 ## Table of Contents
