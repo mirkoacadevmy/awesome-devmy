@@ -14,10 +14,8 @@
 ### Web Frontend
 #### Articles
 - [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.  
-&nbsp;
 #### Tutorial
 - [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.  
-&nbsp;
 #### Tecnologies
 - [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.  
 
