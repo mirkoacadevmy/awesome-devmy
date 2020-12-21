@@ -13,11 +13,11 @@
 *Articles, Tutorial, Frameworks, Codelabs,...*
 ### Web Frontend
 #### Articles
-- [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.
+- [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.  
 #### Tutorial
-- [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.
+- [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.  
 #### Tecnologies
-- [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.
+- [examplelink](https://foo.bar/) - Lorem ipsum dolor sit amet.  
 
 ---
 This work is licensed under a [Creative Commons Attribution 4.0 International
