@@ -14,6 +14,8 @@
     - [Git and GitHub](#git-and-github)
     - [Web](#web)
       - [Angular](#angular)
+    - [Mobile](#mobile)
+        - [Flutter](#flutter)
 
 ## Agile
 ### Articles
@@ -87,6 +89,20 @@
 - [View Facades + RxJS](https://medium.com/angular-in-depth/angular-you-may-not-need-ngrx-e80546cc56ee) - The power of View Facades with RxJS
 - [How to get the most from the TypeScript compiler](https://levelup.gitconnected.com/how-to-get-the-most-from-the-typescript-compiler-angular-aae7fb53e0cf) - Use TypeScript compiler like a PRO
 - [Get equipped with the right Typescript tooling in Angular](https://levelup.gitconnected.com/get-equipped-with-the-right-typescript-tooling-angular-6f789e222b30) - Improve your development experience by enriching your Angular's toolbox
+
+## Mobile
+### Flutter
+#### Articles
+- [Making sense of all those Flutter Providers](https://medium.com/flutter-community/making-sense-all-of-those-flutter-providers-e842e18f45dd) - The main differences between all Provider types
+- [Provider Architecture](https://www.filledstacks.com/post/flutter-architecture-my-provider-implementation-guide) - How to structure a Flutter application using Provider as state management
+- [Getting Started With Flutter BLoC](https://www.netguru.com/codestories/flutter-bloc) - How to use Flutter BLoC in your next Flutter application
+#### Videos
+- [Flutter & DDD](https://www.youtube.com/watch?v=RMiN59x3uH0&list=PLB6lc7nQ1n4iS5p-IezFFgqP6YvAJy84U)
+- [Flutter Clean Architecture](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
+- [Flutter Dependency Injection](https://www.youtube.com/watch?v=KNcP8z0hWqs)
+- [Freezed Data Class & Union](https://www.youtube.com/watch?v=ApvMmTrBaFI)
+- [Final vs Const](https://www.youtube.com/watch?v=B1fIqdqwWw8&)
+- [Flutter BLoC & Cubit](https://www.youtube.com/watch?v=y564ETOCog8)
 
 ---
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
