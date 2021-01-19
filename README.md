@@ -11,6 +11,7 @@
         - [Design Patterns](#design-patterns)
         - [Architectural Structures](#architectural-structures)
         - [CQRS](#cqrs)
+        - [Refactoring](#refactoring)
     - [Git and GitHub](#git-and-github)
     - [Web](#web)
       - [Angular](#angular)
@@ -68,6 +69,13 @@
 - [CQRS and Event Sourcing](https://www.flowing.it/blog/cqrs-e-event-sourcing-il-nostro-primo-progetto-andato-in-produzione-parte-1-write-side) - An example of production code using CQRS pattern
 #### Videos
 - [Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs&ab)
+
+### Refactoring
+#### Articles
+- [If-Else Is a Poor Man’s Polymorphism](https://levelup.gitconnected.com/if-else-is-a-poor-mans-polymorphism-ab0b333b7265) - How to refactor if-else statements with Polymorphism
+#### Books
+- [Dive into Refactoring](https://sourcemaking.com/refactoring-course)
+- [Refactoring: Improving the Design of Existing Code](https://www.amazon.it/dp/8850334834/ref=cm_sw_em_r_mt_dp_DSWbGb39VZ969)
 
 ## Git and GitHub
 ### Articles
